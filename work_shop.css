@@ -1,0 +1,47 @@
+p {     <---!this is how u comment!--->
+ color:red; 
+ font-size: 25;
+ 
+}
+body {
+	background-color:light green;
+}
+table {
+	border: 20px;
+	
+}
+input[type=text] {
+	border-radius: 3px;   /*can use em as well*/
+	width: 100%;
+	padding: 3px,5px; /*xand y axis*/
+	margin: 2.5px 0;
+    box-sizing: border-box;	
+}
+input[type=password] {
+	border-radius: 3px;   /*can use em as well*/
+	width: 100%;
+	padding: 3px,5px; /*xand y axis*/
+	margin: 2.5px 0;
+    box-sizing: border-box;	
+}
+input[type=date] {
+	border-radius: 3px;   /*can use em as well*/
+	width: 100%;
+	padding: 3px,5px; /*xand y axis*/
+	margin: 2.5px 0;
+    box-sizing: border-box;	
+	text-decoration: none;
+label {
+   color: 0000ff;
+}
+select {
+	width: 30%;
+	padding: 8px 20px;
+	border: none;
+	border-radius: 2.5px;
+	background : #f1f1f1;/*find out more abt select*/
+}
+/*    *{}     
+       the above is used to give common formatting for all elements.   
+*/
+/*div- used for division of screen into sections*/

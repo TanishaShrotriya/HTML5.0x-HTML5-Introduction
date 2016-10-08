@@ -1,0 +1,33 @@
+.one {
+	border-left;
+    padding-left: 8rem;
+	padding-top: 1rem;
+	background-color: yellow;
+}
+article {
+	icon 
+}
+section {
+	text-align:left;
+}
+.left {
+	float: left;
+	border: 5px solid red;
+	margin: 5px;
+	padding: 10px;
+	background-color: white
+    
+}
+.right {
+	float:right;
+	border: 5px solid navy;
+	margin: 5px;
+	padding: 10px;
+    
+}
+footer {
+    float:bottom;
+	margin: 5px;
+	padding: 10px;
+	
+}
